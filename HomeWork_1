@@ -1,0 +1,35 @@
+/* Ex.1
+let cat = 'dog';
+dog = 'cat';
+
+console.log(cat);
+console.log(dog);
+*/
+
+/*
+//Ex.2
+const company = 'DataHeroes';
+position = 'QA_Manual';
+
+//console.log(company,position);
+
+
+//Ex.3
+const isProductCompany = true;
+//projectName
+
+console.log(typeof isProductCompany + company + position);
+
+
+//Ex.4
+const projectName = 'HomeWork';
+
+
+//Ex.5
+const a = "jsfo";
+const b = "r.qa";
+const name = a + b;
+
+console.log(name) 
+
+*/
